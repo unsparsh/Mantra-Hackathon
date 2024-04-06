@@ -1,3 +1,5 @@
 Decentralized Stock and Commodities Exchange:
 
 Build a decentralized exchange (DEX) on the MANTRA Chain that enables users to trade tokenized stocks and commodities with ease and efficiency. Develop advanced trading functionalities, integrate liquidity pools, and ensure compliance with regulatory standards to create a robust and secure trading environment.
+
+The problem statement involves creating a decentralized platform for trading stocks and commodities utilizing blockchain technology. This platform aims to provide a secure, transparent, and efficient trading environment without the need for intermediaries, enabling users to buy, sell, and trade assets directly with each other. The decentralized nature of the exchange removes the reliance on centralized authorities, fostering trust and reducing transaction costs for participants. The project seeks to revolutionize traditional trading systems by leveraging blockchain to enhance security, transparency, and accessibility in the financial markets.
